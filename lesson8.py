@@ -21,3 +21,4 @@ if not ad.strip():
     ad = '.'
 for i in search(kw,ad):
     print(i)
+#备注
